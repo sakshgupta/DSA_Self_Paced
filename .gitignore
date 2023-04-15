@@ -1,0 +1,30 @@
+# C++ compiled files
+**/*.exe
+*.out
+
+# C++ object files
+*.o
+*.obj
+
+# C++ libraries
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled binary dependencies
+*.pdb
+
+# IDE files
+**/*.vscode/
+.idea/
+
+# Build folders
+build/
+bin/
+
+# Other
+.DS_Store
