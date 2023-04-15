@@ -5,9 +5,9 @@
 <h2>Table of Contents</h2>
 
 <ul>
-  <li><a href=".tree/main/02.%20Mathematics/">02. Mathematics</a></li>
-  <li><a href="./tree/main/03.%20Bit%20Magic/">03. Bit Magic</a></li>
-  <li><a href="./tree/main/04.%20Recursion/">04. Recursion</a></li>
+  <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/02.%20Mathematics">02. Mathematics</a></li>
+  <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/03.%20Bit%20Magic">03. Bit Magic</a></li>
+  <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/04.%20Recursion">04. Recursion</a></li>
   <li>...</li>
 </ul>
 
