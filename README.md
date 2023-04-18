@@ -8,6 +8,8 @@
   <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/02.%20Mathematics">02. Mathematics</a></li>
   <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/03.%20Bit%20Magic">03. Bit Magic</a></li>
   <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/04.%20Recursion">04. Recursion</a></li>
+  <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/05.%20Array">05. Array</a></li>
+  <li><a href="https://github.com/sakshgupta/DSA_Self_Paced/tree/main/06.%20Searching">06. Searching</a></li>
   <li>...</li>
 </ul>
 
