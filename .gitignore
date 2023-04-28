@@ -1,5 +1,6 @@
 # C++ compiled files
 **/*.exe
+**/*.txt
 *.out
 
 # C++ object files
